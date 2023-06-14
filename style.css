@@ -1,0 +1,38 @@
+.m{
+background-color: yellow;
+}
+body {
+  background: linear-gradient(to bottom, #f80174, #322c8e);
+}
+.tArial{
+font-style: arial;
+font-size: 40px
+}
+.lista{
+background: linear-gradient(to top, #322c8e, #15212a);
+width: 500px;
+border-radius: 6px;
+}
+a{
+color: white;
+font-size: 30px;
+font-family: Sans-serif: Arial;
+text-decoration: none;
+}
+a:hover{
+color: white;
+font-size: 25px;
+font-family: Sans-serif: Arial;
+}
+.vermelho{
+color: red;
+}
+.meio{
+text-align: center;
+}
+div{
+border: solid 2px;
+margin: 10px 10px 0px 10px;
+border-radius: 10px;
+background-color: white;
+}
